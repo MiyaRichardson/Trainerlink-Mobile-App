@@ -45,7 +45,7 @@ This project was developed individually as a university module prototype, coveri
 <br /><br />
 
 <b> Home Page</b><br />
-<img src="images/home.png" width="400" alt="Home Page" />
+<img src="images/homepage.png" width="400" alt="Home Page" />
 <br /><br />
 
 <b>Search Trainers Page</b><br />
